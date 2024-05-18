@@ -1,0 +1,10 @@
+.item {
+  min-width: 49%;
+  border-radius: 12px;
+  margin: 0 auto;
+  padding: 15px 0;
+  text-align: center;
+  text-wrap: wrap;
+  background-color: rgba(136, 34, 225, 0.85);
+  font-size: 20px;
+}

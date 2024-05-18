@@ -1,0 +1,24 @@
+.list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding-top: 24px;
+  align-items: center;
+  justify-content: center;
+}
+.item {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.image {
+  width: 280px;
+  height: 480px;
+}
+.paragraph {
+  font-size: 16px;
+  font-weight: 500;
+}
